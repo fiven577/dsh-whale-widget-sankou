@@ -1,4 +1,4 @@
-# DSH 小鲸鱼余额挂件 · 三口皮肤版（dsh-whale-widget-sankou）
+﻿# DSH 小鲸鱼余额挂件 · 三口皮肤版（dsh-whale-widget-sankou）
 
 > **本仓库为 [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)（`dsh-whale-widget`，MIT License，Copyright © 2026 MeteorNOX）的修改版（fork）**。
 > 原版 LICENSE 已原样保留在 [LICENSE](./LICENSE)。本仓库的代码修改在下方「与原版的差异」列出；自定义角色素材与语音的使用说明见「素材说明」。
@@ -51,7 +51,7 @@ DSH Web 界面右下角的常驻余额挂件：显示 DeepSeek API 余额 + 今�
 
 ```powershell
 # 从本仓库安装（仓库公开后）
-dsh plugin --profile web add github:<你的用户名>/dsh-whale-widget-sankou
+dsh plugin --profile web add github:fiven577/dsh-whale-widget-sankou
 
 # 或本地安装（仓库根目录就是插件包）
 dsh plugin --profile web add link:<本仓库目录绝对路径>
