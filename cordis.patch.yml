@@ -1,0 +1,14 @@
+# ============================================================================
+# dsh-whale-widget-sankou —— DSH bundle patch（三口皮肤版）
+# ============================================================================
+# 本文件是修改版插件的"挂载声明"，DSH 启动时按 bundle 层栈叠加各插件 patch。
+#
+# 安装方式：
+#   dsh plugin --profile web add dsh-whale-widget-sankou
+# 或本地开发安装：
+#   dsh plugin --profile web add link:<本目录绝对路径>
+# ============================================================================
+
+- insert:
+    - id: dsh-whale-widget-sankou
+      name: dsh-whale-widget-sankou

@@ -1,0 +1,12 @@
+# node
+node_modules/
+.pnpm-store/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dsh / local
+*.local.yml
+.credentials.yaml

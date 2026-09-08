@@ -1,0 +1,28 @@
+{
+  "name": "dsh-whale-widget-sankou",
+  "version": "0.3.0",
+  "description": "DSH 小鲸鱼余额挂件·三口皮肤版 —— 基于 dsh-whale-widget 的修改版：自定义角色“三口”形象/状态/音效/透明动画，含生气、吃撑提醒、语音互动",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "balance",
+    "widget",
+    "sankou",
+    "desktop-pet"
+  ],
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "assets",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "license": "MIT"
+}
