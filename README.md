@@ -1,9 +1,15 @@
-﻿# DSH 小鲸鱼余额挂件 · 三口皮肤版（dsh-whale-widget-sankou）
+# DSH 小鲸鱼余额挂件 · 三口皮肤版（dsh-whale-widget-sankou）
 
 > **本仓库为 [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)（`dsh-whale-widget`，MIT License，Copyright © 2026 MeteorNOX）的修改版（fork）**。
 > 原版 LICENSE 已原样保留在 [LICENSE](./LICENSE)。本仓库的代码修改在下方「与原版的差异」列出；自定义角色素材与语音的使用说明见「素材说明」。
 
 DSH Web 界面右下角的常驻余额挂件：显示 DeepSeek API 余额 + 今日已用 + 每轮对话消耗，并带一只名叫**三口**的桌宠（支持自定义形象/状态/音效）。
+
+## 📺 效果演示
+
+<video src="./docs/demo.mp4" width="720" controls poster="./docs/demo_cover.png"></video>
+
+> 视频打不开时，可直接下载或点击打开 [docs/demo.mp4](./docs/demo.mp4)。
 
 ## 特性
 
