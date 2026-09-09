@@ -7,7 +7,7 @@ DSH Web 界面右下角的常驻余额挂件：显示 DeepSeek API 余额 + 今�
 
 ## 📺 效果演示
 
-<video src="./docs/demo.mp4" width="720" controls poster="./docs/demo_cover.png"></video>
+<video src="https://raw.githubusercontent.com/fiven577/dsh-whale-widget-sankou/main/docs/demo.mp4" width="720" controls type="video/mp4" poster="https://raw.githubusercontent.com/fiven577/dsh-whale-widget-sankou/main/docs/demo_cover.png"></video>
 
 > 视频打不开时，可直接下载或点击打开 [docs/demo.mp4](./docs/demo.mp4)。
 
